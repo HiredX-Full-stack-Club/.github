@@ -12,17 +12,17 @@ To **empower the tech community** by fostering collaborative learning, inclusive
 
 This organization is the technical backbone of our community. Here you’ll find collaborative resources, code, and content that support our events, projects, and learning goals:
 
-- 📚 [Community Guidelines](community-hub) — Help keep HiredX positive, inclusive, and productive.
-- 🗺️ [Roadmap](roadmap) — Contribute to and explore our community-driven learning paths.
-- 📅 [Events](events) — Find upcoming tech talks, workshops, and coding sessions.
-- 🛠️ [Projects](projects) — Join a project, start one, and build something meaningful with others.
+- 📚 [Community Guidelines][guidelines] — Help keep HiredX positive, inclusive, and productive.
+- 🗺️ [Roadmap][roadmap] — Contribute to and explore our community-driven learning paths.
+- 📅 [Events][events] — Find upcoming tech talks, workshops, and coding sessions.
+- 🛠️ [Projects][projects] — Join a project, start one, and build something meaningful with others.
 
 ## 🔗 WhatsApp + Discord = A Community That Fits You
 
 We operate on **both WhatsApp and Discord**, giving members options for how they want to engage, whether casually chatting or deep-diving into tech threads and voice calls.
 
-- 💬 [WhatsApp](whatsapp): Great for quick collaboration and mobile-first engagement
-- 🎧 [Discord](discord): Ideal for voice chats, longer discussions, and team-based project work
+- 💬 [WhatsApp][whatsapp]: Great for quick collaboration and mobile-first engagement
+- 🎧 [Discord][discord]: Ideal for voice chats, longer discussions, and team-based project work
 
 ## 🤝 Community Collaboration
 
@@ -35,8 +35,8 @@ You can join our community through either of the platforms below. Both are begin
 
 | Platform | Link |
 | --- | --- |
-| WhatsApp | [Join Here](whatsapp) |
-| Discord | [Join Here](discord) |
+| WhatsApp | [Join Here][whatsapp] |
+| Discord | [Join Here][discord] |
 
 Choose the space that suits you best or **join both**!
 WhatsApp is great for quick mobile chats, while Discord is better for deep dives and voice-based collaboration.
@@ -57,7 +57,7 @@ Spotted a typo or want to suggest an improvement?  Feel free to [open an issue h
 [whatsapp]: https://chat.whatsapp.com/GXXSWJBWdnkFElMxwUldIh
 [discord]: https://discord.gg/EAvtsvnrAJ
 
-[community-hub]: https://github.com/hiredx-community/community-hub
+[guidelines]: https://github.com/hiredx-community/community-hub
 [roadmap]: https://github.com/hiredx-community/roadmap
 [events]: https://github.com/hiredx-community/events
 [projects]: https://github.com/hiredx-community/projects
